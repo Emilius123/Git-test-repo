@@ -25,4 +25,4 @@ See the [wiki](https://github.com/Emilius123/Git-test-repo/wiki "wiki"),
 or [examples](https://github.com/Emilius123/Git-test-repo/tree/master/Examples "examples").
 
 
-Please note that this project is more a testing and joke project than real.
+Please note that this project is more a testing and joke project than serious, real one.
