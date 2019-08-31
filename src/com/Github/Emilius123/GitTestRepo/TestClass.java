@@ -41,6 +41,14 @@ public class TestClass {
 		return Feeling;
 	}
 
+	public Coolness getCoolness() {
+		return Coolness;
+	}
+
+	public void setCoolness(Coolness coolness) {
+		Coolness = coolness;
+	}
+
 	public void setFeeling(Feeling feeling) {
 		Feeling = feeling;
 	}
