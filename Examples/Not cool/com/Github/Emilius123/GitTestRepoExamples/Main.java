@@ -14,6 +14,7 @@ public class Main {
 		//Not cool
 		TestClass c = new TestClass(Coolness.NOT_COOL);
 		c.doSomething();
+		c.TestIt()
 	}
 
 }
