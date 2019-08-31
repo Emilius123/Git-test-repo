@@ -36,7 +36,19 @@ public class TestClass {
 		}
 		return null;
 	}
-
+	
+	public void TestIt() {
+		if(this.Feeling == Feeling.Awseome){
+			System.out.println("Test YAY :))))) ;) ");
+		}else if(this.Feeling == Feeling.OMG_SO_SUPER_ULTRA_HYDRA_COOL) {
+			System.out.println("DHhidsuhdfhigfuhduhTESTTESTSTSTdsgfAYAYyOMG");
+		}else if(this.Feeling == Feeling.Kinda_Good) {
+			System.out.println("kinda nice test");
+		}else {
+			System.out.println("test :(");
+		}
+	}
+	
 	public Feeling getFeeling() {
 		return Feeling;
 	}
