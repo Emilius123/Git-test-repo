@@ -18,3 +18,6 @@ This Repo is just for me to have fun with Git and Java.
 
 ## Work in progress:
 * Currently nothing because there is nothing to do and I currently don't have ideas.
+
+## Documentation:
+See the [wiki](https://github.com/Emilius123/Git-test-repo/wiki "wiki").
