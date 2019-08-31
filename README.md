@@ -9,3 +9,7 @@ This Repo is just for me to have fun with and try out Git features.
 * A readme file
 * An issue template
 * epic github swag
+
+## Upcoming features:
+* Maven support
+* A bad Java class
