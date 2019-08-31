@@ -20,7 +20,7 @@ public class TestClass {
 			System.out.println("yo im kinda cool");
 		}else if(this.Coolness == Coolness.NOT_COOL) {
 			//Not cool
-			System.out.println("im not cool, :(");
+			System.out.println("im not cool, :*(");
 		}
 	}
 	
