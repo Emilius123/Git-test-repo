@@ -22,6 +22,9 @@ public class TestClass {
 		}else if(this.Coolness == Coolness.NOT_COOL) {
 			//Not cool
 			System.out.println("im not cool, :*(");
+		}else if(this.Coolness == Coolness.OMG_SO_ULTRA_HYDRA_MUCH_COOL) {
+			//OMG SO ULTRA HYDRA MUCH COOL
+			System.out.println("NO WAY IM SO OMG SO ULTRA HYDRA MUCH COOL OMG SO AWSEOME ");
 		}
 	}
 	
