@@ -1,3 +1,8 @@
+/**
+  There are people and classes, not as cool as you.
+  That's why we created this not cool Testclass.
+  You can replace the coolness with anything you want, of course
+*/
 package com.Github.Emilius123.GitTestRepoExamples;
 
 import com.Github.Emilius123.GitTestRepo.Coolness;
