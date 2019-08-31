@@ -21,4 +21,5 @@ This Repo is just for me to have fun with Git and Java.
 
 ## Documentation:
 See the [wiki](https://github.com/Emilius123/Git-test-repo/wiki "wiki"),
+
 or [examples](https://github.com/Emilius123/Git-test-repo/tree/master/Examples "examples").
