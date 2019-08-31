@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.Github.Emilius123</groupId>
   <artifactId>GitTestProject</artifactId>
-  <version>1.1</version>
+  <version>1.2-RELASE</version>
   <name>Git Test Repo</name>
   <description>This Repo is just for me to have fun with and try out Git features.</description>
   <build>
