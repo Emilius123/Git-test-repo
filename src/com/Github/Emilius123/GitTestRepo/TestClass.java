@@ -1,6 +1,6 @@
 /**
   TestClass
-  Can be cool
+  Has a coolness Enum
  */
 package com.Github.Emilius123.GitTestRepo;
 
