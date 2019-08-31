@@ -4,7 +4,7 @@
   <artifactId>GitTestProject</artifactId>
   <version>1.2-RELASE</version>
   <name>Git Test Repo</name>
-  <description>This Repo is just for me to have fun with and try out Git features.</description>
+  <description>This Repo is just for me to have fun with Git and Java.</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
