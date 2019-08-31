@@ -1,3 +1,8 @@
+/**
+  Emotions are very important.
+  Even computers have feelings.
+  That's why we created this Enum.
+ */
 package com.Github.Emilius123.GitTestRepo;
 
 public enum Feeling {
