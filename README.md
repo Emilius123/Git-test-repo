@@ -10,6 +10,7 @@ This Repo is just for me to have fun with and try out Git features.
 * An issue template
 * epic github swag
 * Maven support
+* A bad Java class
 
 ## Upcoming features:
-* A bad Java class
+* Currently nothing is planed, feel free to write a feature request
