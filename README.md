@@ -20,4 +20,5 @@ This Repo is just for me to have fun with Git and Java.
 * Currently nothing because there is nothing to do and I currently don't have ideas.
 
 ## Documentation:
-See the [wiki](https://github.com/Emilius123/Git-test-repo/wiki "wiki").
+See the [wiki](https://github.com/Emilius123/Git-test-repo/wiki "wiki"),
+or [examples](https://github.com/Emilius123/Git-test-repo/tree/master/Examples "examples").
