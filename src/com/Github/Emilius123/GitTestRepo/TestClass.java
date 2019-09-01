@@ -4,7 +4,6 @@
   Years of research showed that this is completely useless
  */
 package com.Github.Emilius123.GitTestRepo;
-import com.Github.Emilius123.GitTestRepo.Coolness;
 
 public class TestClass {
 	private Coolness Coolness;
@@ -39,11 +38,11 @@ public class TestClass {
 	}
 	
 	public void TestIt() {
-		if(this.Feeling == Feeling.Awseome){
+		if(this.Feeling == com.Github.Emilius123.GitTestRepo.Feeling.Awseome){
 			System.out.println("Test YAY :))))) ;) ");
-		}else if(this.Feeling == Feeling.OMG_SO_SUPER_ULTRA_HYDRA_COOL) {
+		}else if(this.Feeling == com.Github.Emilius123.GitTestRepo.Feeling.OMG_SO_SUPER_ULTRA_HYDRA_COOL) {
 			System.out.println("DHhidsuhdfhigfuhduhTESTTESTSTSTdsgfAYAYyOMG");
-		}else if(this.Feeling == Feeling.Kinda_Good) {
+		}else if(this.Feeling == com.Github.Emilius123.GitTestRepo.Feeling.Kinda_Good) {
 			System.out.println("kinda nice test");
 		}else {
 			System.out.println("test :(");
