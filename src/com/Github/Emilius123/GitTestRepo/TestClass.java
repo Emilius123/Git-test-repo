@@ -4,6 +4,7 @@
   Years of research showed that this is completely useless
  */
 package com.Github.Emilius123.GitTestRepo;
+import com.Github.Emilius123.GitTestRepo.Coolness;
 
 public class TestClass {
 	private Coolness Coolness;
