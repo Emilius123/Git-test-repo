@@ -51,7 +51,11 @@ public class TestClass {
 		}
 	}
 	
-	
+	/*
+	  Getters and Setters are important.
+	  Lots of classes need them.
+	  That's why we created these
+	 */
 	
 	public Feeling getFeeling() {
 		return Feeling;
