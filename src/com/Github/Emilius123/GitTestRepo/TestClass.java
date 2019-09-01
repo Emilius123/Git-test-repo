@@ -40,6 +40,8 @@ public class TestClass {
 	}
 	
 	public void TestIt() {
+		if(this.Uselessness == Uselessness.Useless) {
+		System.out.println("I'm useless and lazy but ima still do that");
 		if(this.Feeling == com.Github.Emilius123.GitTestRepo.Feeling.Awseome){
 			System.out.println("Test YAY :))))) ;) ");
 		}else if(this.Feeling == com.Github.Emilius123.GitTestRepo.Feeling.OMG_SO_SUPER_ULTRA_HYDRA_COOL) {
@@ -49,6 +51,10 @@ public class TestClass {
 		}else {
 			System.out.println("test :(");
 		}
+		}else {
+			System.out.println("No way ima do that, im too useless and lazy");
+		}
+			
 	}
 	
 	/*
