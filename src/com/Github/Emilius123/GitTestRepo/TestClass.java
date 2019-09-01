@@ -8,6 +8,8 @@ package com.Github.Emilius123.GitTestRepo;
 public class TestClass {
 	private Coolness Coolness;
 	private Feeling Feeling;
+	private Uselessness Uselessness;
+
 	public TestClass(Coolness cool) {
 		this.Coolness = cool;
 	}
@@ -49,6 +51,8 @@ public class TestClass {
 		}
 	}
 	
+	
+	
 	public Feeling getFeeling() {
 		return Feeling;
 	}
@@ -63,6 +67,14 @@ public class TestClass {
 
 	public void setFeeling(Feeling feeling) {
 		Feeling = feeling;
+	}
+	
+	public Uselessness getUselessness() {
+		return Uselessness;
+	}
+
+	public void setUselessness(Uselessness uselessness) {
+		Uselessness = uselessness;
 	}
 	
 	
