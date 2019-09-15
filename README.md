@@ -12,7 +12,7 @@ This Repo is just for me to have fun with Git and Java.
 * Maven support
 * A cool test Java class
 * A coolness Enum
-* A feeling Enum
+*  A feeling Enum
 * An uselessness Enum
 
 ## Upcoming features:
